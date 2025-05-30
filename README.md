@@ -11,7 +11,7 @@ Este repositorio contiene los cuadernos Jupyter desarrollados para cada uno de l
 |--------|-------------|
 | `Taller_1_Prediccion_hojas_mango_15epocs_final.ipynb` | Clasificación de hojas de mango con entrenamiento supervisado de una CNN. |
 | `Taller_2_clasificacion_Autogluon_10clases_80%.ipynb` | Clasificación multiclase con AutoGluon usando representaciones extraídas con ResNet50. Incluye comparación por porcentaje de datos (10%, 30%, 80%). |
-| `Taller_3_Image_Retrieval.ipynb` | Recuperación de imágenes similares mediante embeddings visuales. |
+| `Taller_3_Image_Retrieval_50_.ipynb` | Recuperación de imágenes similares mediante embeddings visuales. |
 | `Taller_4_final_Modelos_fundacionalesCNNSencillas.ipynb` | Auto-supervisión con rotaciones usando CNN vs modelos fundacionales (ViT / MAE). |
 | `Taller_5_deteccion_aviones_final.ipynb` | Detección de objetos (aviones) en imágenes usando modelos preentrenados. |
 
@@ -20,6 +20,7 @@ Este repositorio contiene los cuadernos Jupyter desarrollados para cada uno de l
 - Para algunos talleres se encuentran múltiples ejecuciones o subconjuntos de datos debido a restricciones de tiempo de cómputo.
 - Cada notebook incluye una sección de resultados con gráficos, métricas de evaluación y observaciones.
 - En `Taller 2`, se realiza un análisis progresivo de calidad de predicción en función del volumen de datos, útil para comprender el impacto del dataset en modelos AutoML.
+- En `Taller 3`, se realizan agregan diferentes visualizaciones de los resultados obtenidos con la recuperación de imágenes para diferentes cantidades de datos.
 
 ## 🛠️ Requisitos
 
