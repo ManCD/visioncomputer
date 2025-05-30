@@ -40,6 +40,6 @@ Todos los notebooks fueron desarrollados en Google Colab. Se utilizan librerías
 
 ## 📣 Comentarios
 
-Este repositorio fue preparado con fines académicos como parte del curso de Visión por Computadora.  
+Este repositorio fue preparado con fines académicos como parte del curso de Visión por Computadora, dictado por el profesor Juan Carlos Arbelaez Estrada, universidad Eafit.
 Si tienes preguntas o sugerencias, no dudes en contactarnos.
 
