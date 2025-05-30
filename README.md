@@ -1,4 +1,4 @@
-# 🧠 visioncomputer
+# 🧠 Vision Computer
 
 Desarrollo de los talleres del curso de Visión por Computadora  
 **Autores:** Manuel Andrade, Gabriel Santiago  
